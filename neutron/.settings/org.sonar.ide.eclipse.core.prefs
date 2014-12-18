@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=sonar.jacoco.reportPath\=target/code-coverage/jacoco.exec\r\nsonar.jacoco.itReportPath\=target/code-coverage/jacoco-it.exec\r\nsonar.host.url\=http\://localhost\:9000/\r\nsonar.profile\=Sonar way with Findbugs\r\nsonar.java.coveragePlugin\=jacoco\r\nsonar.skippedModules\=org.openflow.openflowj,net.sf.jung2,org.opendaylight.controller.protobuff.messages,ch.ethz.ssh2\r\nsonar.language\=java
+projectKey=org.opendaylight.plugin2oc\:plugin2oc.neutron\:root-private-view
+serverUrl=http\://localhost\:9000
+version=2
